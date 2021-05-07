@@ -1,0 +1,4 @@
+maxQueueLength 7
+numServicePoints 3
+closingTime 480 
+averageNewCustomersPerInterval 3
